@@ -1,5 +1,5 @@
 ---
-title: 3MagicLabs Agent
+title: Elmdin Agent
 emoji: 🕵🏻‍♂️
 colorFrom: indigo
 colorTo: indigo
@@ -11,11 +11,11 @@ hf_oauth: true
 hf_oauth_expiration_minutes: 480
 ---
 
-# 3MagicLabs Agent
+# Elmdin Agent
 
-[![CI](https://github.com/3MagicLabs/agent/actions/workflows/ci.yml/badge.svg)](https://github.com/3MagicLabs/agent/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/3MagicLabs/agent/actions/workflows/codeql.yml/badge.svg)](https://github.com/3MagicLabs/agent/actions/workflows/codeql.yml)
-[![Security](https://github.com/3MagicLabs/agent/actions/workflows/security.yml/badge.svg)](https://github.com/3MagicLabs/agent/actions/workflows/security.yml)
+[![CI](https://github.com/Elmdin/agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Elmdin/agent/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/Elmdin/agent/actions/workflows/codeql.yml/badge.svg)](https://github.com/Elmdin/agent/actions/workflows/codeql.yml)
+[![Security](https://github.com/Elmdin/agent/actions/workflows/security.yml/badge.svg)](https://github.com/Elmdin/agent/actions/workflows/security.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
