@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/3MagicLabs/agent
+git clone https://github.com/Elmdin/agent
 cd agent
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev,tools,app]"

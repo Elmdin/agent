@@ -147,7 +147,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     submit = sub.add_parser("submit", help="submit cached answers")
     submit.add_argument("--username", required=True)
-    submit.add_argument("--agent-code", default="https://github.com/3MagicLabs/agent")
+    submit.add_argument("--agent-code", default="https://github.com/Elmdin/agent")
     submit.set_defaults(func=_submit)
 
     return parser

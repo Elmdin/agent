@@ -74,7 +74,7 @@ def submit_cached(profile: gr.OAuthProfile | None) -> str:
     agent_code = (
         f"https://huggingface.co/spaces/{space_id}/tree/main"
         if space_id
-        else "https://github.com/3MagicLabs/agent"
+        else "https://github.com/Elmdin/agent"
     )
     try:
         result = BenchmarkRunner().submit(profile.username, agent_code)
@@ -134,8 +134,8 @@ def status_report() -> str:
     )
 
 
-with gr.Blocks(title="3MagicLabs Agent") as demo:
-    gr.Markdown("# 3MagicLabs Agent — benchmark runner")
+with gr.Blocks(title="Elmdin Agent") as demo:
+    gr.Markdown("# Elmdin Agent — benchmark runner")
     gr.Markdown(
         """
         1. Log in to Hugging Face.
