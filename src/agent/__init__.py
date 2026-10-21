@@ -1,4 +1,4 @@
-"""3MagicLabs agent — a supervisor multi-agent system.
+"""Elmdin agent — a supervisor multi-agent system.
 
 Public API::
 

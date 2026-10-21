@@ -1,7 +1,7 @@
-site_name: 3MagicLabs Agent
+site_name: Elmdin Agent
 site_description: A supervisor multi-agent system for autonomous research, reasoning and code execution.
-repo_url: https://github.com/3MagicLabs/agent
-repo_name: 3MagicLabs/agent
+repo_url: https://github.com/Elmdin/agent
+repo_name: Elmdin/agent
 edit_uri: edit/main/docs/
 
 theme:

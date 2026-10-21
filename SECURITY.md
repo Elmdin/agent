@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 Report privately through
-[GitHub Security Advisories](https://github.com/3MagicLabs/agent/security/advisories/new).
+[GitHub Security Advisories](https://github.com/Elmdin/agent/security/advisories/new).
 Please do not open a public issue for a vulnerability.
 
 We aim to acknowledge within 3 business days and to ship a fix or a mitigation

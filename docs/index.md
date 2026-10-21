@@ -1,4 +1,4 @@
-# 3MagicLabs Agent
+# Elmdin Agent
 
 A supervisor multi-agent system for autonomous research, reasoning and code
 execution, built on LangGraph.
