@@ -74,7 +74,7 @@ def submit_cached(profile: gr.OAuthProfile | None) -> str:
     agent_code = (
         f"https://huggingface.co/spaces/{space_id}/tree/main"
         if space_id
-        else "https://github.com/3MagicLabs/agent"
+        else "https://github.com/Elmdin/agent"
     )
     try:
         result = BenchmarkRunner().submit(profile.username, agent_code)

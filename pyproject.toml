@@ -56,10 +56,10 @@ dev = [
 all = ["3magic-agent[tools,app,dev]"]
 
 [project.urls]
-Homepage = "https://github.com/3MagicLabs/agent"
-Repository = "https://github.com/3MagicLabs/agent"
-Issues = "https://github.com/3MagicLabs/agent/issues"
-Changelog = "https://github.com/3MagicLabs/agent/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Elmdin/agent"
+Repository = "https://github.com/Elmdin/agent"
+Issues = "https://github.com/Elmdin/agent/issues"
+Changelog = "https://github.com/Elmdin/agent/blob/main/CHANGELOG.md"
 
 [project.scripts]
 agent = "agent.cli:main"
